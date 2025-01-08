@@ -12,6 +12,7 @@ public class LambdaExpressionsExamples {
     static List<Integer> numList  = new ArrayList<>();
 
     public static void main(String[] args) {
+        // i have gone through each of the stream method
         /***************************************************************************************
          * Perform Initial/Setup processing for the application
          **************************************************************************************/
